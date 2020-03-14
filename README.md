@@ -3,4 +3,4 @@
 ### Content
 [English Version](https://github.com/ywhhou/SQLiteInstallation/blob/master/Documentation/EnglishVersion.md)
 
-[Chinese Version](https://github.com/ywhhou/SQLiteInstallation/blob/master/Documentation/中文版.md)
+[中文版](https://github.com/ywhhou/SQLiteInstallation/blob/master/Documentation/中文版.md)
