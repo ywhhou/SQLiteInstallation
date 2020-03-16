@@ -11,7 +11,7 @@ To download SQLite, you open the [download page](https://sqlite.org/download.htm
      Use ".open FILENAME" to reopen on a persistent database.
      sqlite> 
      ```
-1. In case SQLite is not installed on your Mac OS X, visit the [download page](https://sqlite.org/download.html)  and download **sqlite-autoconf-3310100.tar.gz** from the Source Code section. 
+1. In case SQLite is not installed on your Mac OS X, visit the [download page](https://sqlite.org/download.html) and download **sqlite-autoconf-3310100.tar.gz** from the Source Code section. 
 1. Run the following commands in Terminal:
      ```
      $ cd downloads #or where you saved the tar file.
