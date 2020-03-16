@@ -2,6 +2,7 @@
 To download SQLite, you open the [download page](https://sqlite.org/download.html) of SQLite official website. SQLite provides installation across platforms. This article is an guidence for installing SQLite on Mac, Windows and Linux.
 ### Mac OS 
 1. SQLite is preinstalled in all the latest versions of Mac. To start SQLite, excute the command `sqlite3` in the terminal: 
+
    ```
    $ sqlite3
    SQLite version 3.24.0 2018-06-04 14:10:15
